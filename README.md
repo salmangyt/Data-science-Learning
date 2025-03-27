@@ -95,6 +95,3 @@ print(best_hyperparameters.values)
 ## References
 - TensorFlow Documentation: https://www.tensorflow.org/
 - Keras Tuner: https://keras.io/guides/keras_tuner/
-
----
-This README provides a structured explanation of **Hyperparameter Tuning in Neural Networks**, including conceptual understanding, practical code examples, and evaluation techniques. 🚀
